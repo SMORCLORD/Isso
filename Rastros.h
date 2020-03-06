@@ -13,4 +13,4 @@ void pfMatriz (char arr [8][8]);
 void pfArray (char arr[]);
 void array1Fase (char arr[]);
 void clear ();
-
+// O PWACO !Fixe.
